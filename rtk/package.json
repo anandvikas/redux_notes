@@ -1,0 +1,19 @@
+{
+  "name": "rtk",
+  "version": "1.0.0",
+  "description": "RTK is an official and recommended redux toolset to write redux logic in code.\r Why need RTK ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.4.0",
+    "nodemon": "^2.0.22",
+    "redux-logger": "^3.0.6"
+  }
+}
