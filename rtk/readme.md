@@ -1,3 +1,6 @@
+## Reference
+Codevolution - YouTube
+[https://www.youtube.com/watch?v=0awA5Uw6SJE&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3](https://www.youtube.com/watch?v=0awA5Uw6SJE&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3)
 # Redux toolkit
 RTK is an official and recommended redux toolset to write redux logic in code.
 Why need RTK ?
